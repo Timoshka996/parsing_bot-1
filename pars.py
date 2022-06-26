@@ -51,3 +51,6 @@ def main():
     print(title_) 
     big_title=get_page_data_for_new(get_html(url_)) 
 main()
+
+
+
